@@ -3,17 +3,10 @@
 
 ### Computer Engineering Student
 
-
- 🔭 I’m currently learning smart contract 
+ 🔭 I’m currently learning smart contract
+ 
+                                                          Languages and Tools:
 <p align="center">
-
-<img alt="Email" src="https://img.shields.io/badge/Email-husniye.capanoglu@gmail.com-blue?style=flat&logo=gmail">
-<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@HüsniyeÇapanoglu-blue?style=flat&logo=linkedin">
-
-</p>
-
-Languages and Tools:
-<p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ethereum_logo_2014.svg/1257px-Ethereum_logo_2014.svg.png" alt="Ethereum" height="40" style="vertical-align:top; margin:4px">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png" alt="Solidity" height="40" style="vertical-align:top; margin:4px">
@@ -26,6 +19,16 @@ Languages and Tools:
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png?20160530175649" alt="CSS" height="40" style="vertical-align:top; margin:4px">
 
 </p> 
+ 
+ 
+                                                                Contact Me 
+<p align="center">
+
+<img alt="Email" src="https://img.shields.io/badge/Email-husniye.capanoglu@gmail.com-blue?style=flat&logo=gmail">
+<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@HüsniyeÇapanoglu-blue?style=flat&logo=linkedin">
+
+</p>
+
 
 <br />
 <br/>
