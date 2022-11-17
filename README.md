@@ -5,7 +5,7 @@
 
  🔭 I’m currently learning smart contract
  
-<img src="https://user-images.githubusercontent.com/85956625/199969796-33968d7d-3fb6-4932-a15e-da5abcaa3344.gif"  height="80" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/85956625/199969796-33968d7d-3fb6-4932-a15e-da5abcaa3344.gif"  height="120" style="vertical-align:top; margin:4px">
  
  Languages and Tools:
  
