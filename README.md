@@ -7,7 +7,7 @@
 
  🔭 I’m currently learning smart contract
  
-<img src="https://media.giphy.com/media/5bGYUuT3VEVLa/giphy.gif"   height="100" style="vertical-align:top; margin:4px">
+<img src="https://media.giphy.com/media/5bGYUuT3VEVLa/giphy.gif"   height="100" style="vertical-align:top; margin:4px" align="right" >
 
  Languages and Tools:
  
@@ -26,6 +26,7 @@
  
 </p> 
 
+ Contact me 
 <div id="badges">
   <a href="https://www.linkedin.com/feed/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
