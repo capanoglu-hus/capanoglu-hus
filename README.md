@@ -26,11 +26,11 @@
  
 </p> 
 
-Contact Me 
-
-<p align="left">
-<img alt="Email" src="https://img.shields.io/badge/Email-husniye.capanoglu@gmail.com-blue?style=flat&logo=gmail">
-<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@HüsniyeÇapanoglu-blue?style=flat&logo=linkedin">
-</p>
-
+<div id="badges">
+  <a href="https://www.linkedin.com/feed/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:husniye.capanoglu@gmail.com?subject=Came%20from%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
