@@ -2,7 +2,7 @@
 # Hi 👋   I'm Hüsniye 
 <img src="https://media.giphy.com/media/5bGYUuT3VEVLa/giphy.gif"   height="100" style="vertical-align:top; margin:4px" align="right" >
 
-### Computer Engineering Student
+
 
  🔭 I’m currently learning smart contract
  
