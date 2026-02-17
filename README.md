@@ -3,11 +3,19 @@
 
 ### Hi  👋 I'm Hüsniye Çapanoğlu
 
-backend Developer specializing in **.NET Core** and **Blockchain** technologies.
+🚀 Backend Developer | ASP.NET Core  
 
-- 🔭 I’m currently working on Microservices & Web3 Integrations
-- 🌱 I’m currently learning Advanced Smart Contract Security
-- 💻 **Tech Stack:** C#, .NET Core, Solidity, Web3.js, PostgreSQL, MongoDB
+🔐 Secure & scalable API systems  
+🔗 Blockchain & Smart Contract specialist  
+
+🛠 Main Stack  
+• ASP.NET Core & Entity Framework  
+• REST APIs • JWT Auth  
+• PostgreSQL • SQL Server  
+• Solidity • Foundry • Web3 (viem, ethers)
+
+🌍 Building real-world backend systems with blockchain integration
+
 - 📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/capanoglu-hus/)
 
 
