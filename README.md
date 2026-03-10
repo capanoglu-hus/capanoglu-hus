@@ -1,7 +1,7 @@
 
 # Hi  👋 I'm Hüsniye Çapanoğlu
 
-[cite_start]I'm a **Backend-focused Full Stack Developer** based in Turkey[cite: 172, 173]. [cite_start]I specialize in building scalable web applications with **.NET** and exploring decentralized solutions through **Blockchain** technology[cite: 177, 180, 181].
+I'm a **Backend-focused Full Stack Developer** based in Turkey. I specialize in building scalable web applications with **.NET** and exploring decentralized solutions through **Blockchain** technology.
 
 ---
 
