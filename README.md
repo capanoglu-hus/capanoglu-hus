@@ -23,6 +23,10 @@ I'm a **Backend-focused Full Stack Developer** based in Turkey. I specialize in 
 #### Blockchain
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) 
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/ethers.js-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Viem.js](https://img.shields.io/badge/viem.js-000000?style=for-the-badge&logo=v&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF01F?style=for-the-badge&logo=hardhat&logoColor=black)
+![Foundry](https://img.shields.io/badge/Foundry-FF4B4B?style=for-the-badge&logo=rust&logoColor=white)
 
 #### Tools & Architecture
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
